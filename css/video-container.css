@@ -33,3 +33,6 @@ video{
     text-align: center;
   }
   
+  .fondologin{
+    background-image: url("../img/login.jpg");
+  }
