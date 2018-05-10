@@ -12,6 +12,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/video-container.css" type="text/css">
 
     <!-- Custom fonts for this template -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -64,13 +65,16 @@
 
     <!-- Header -->
     <header class="masthead">
-      <div class="container">
-        <div class="intro-text">
-          <div class="intro-lead-in"></div>
-          <div class="intro-heading text-uppercase"> <img class="logo" src="img/logo.png" alt=""></div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+      <div id="video-container" class="delimitador"  >
+        <video preload="auto"  autoplay="autoplay" type="video/mp4" src="Video/latus.mp4" loop></video>
+        <div class="content ">
+            <img class="animated bounceInUp " src="img/logo.png" alt=""><br>
+    
+            <button type="button" class="btn btn-outline-light animated bounceInUp boton retraso-1 " data-toggle="modal" data-target="#exampleModalCenter">
+               play
+              </button>
+    
         </div>
-      </div>
     </header>
 
     <!-- Services -->
