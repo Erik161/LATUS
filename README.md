@@ -1,6 +1,6 @@
-# [Latus]
+# [Latus](https://www.facebook.com/ExperienceLatus/)
 
-[Latus] es un grupo de jóvenes católicos adultos con un estilo de vida espiritual, para jóvenes católicos +18 • todos los jueves en Café Jades, AVIA Zona 10 • 7:45pm. • Entrada Gratuita.
+[Latus](https://www.facebook.com/ExperienceLatus/) es un grupo de jóvenes católicos adultos con un estilo de vida espiritual, para jóvenes católicos +18 • todos los jueves en Café Jades, AVIA Zona 10 • 7:45pm. • Entrada Gratuita.
 
 ## Preview
 
