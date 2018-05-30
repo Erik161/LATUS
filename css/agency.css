@@ -172,7 +172,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/ile.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -598,7 +598,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.png");
+  background-image: url("../video/redes.mp4");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -717,5 +717,5 @@ color:#201ea8;
 
 .logos{
   width: 100%;
-  max-width:300px
+  max-width:400px
 }
