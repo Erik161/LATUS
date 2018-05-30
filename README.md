@@ -44,7 +44,7 @@
 ## HERRAMIENTAS UTILIZADAS EN LA PAGINA
 
 
-### BOOTSTRAP
+### [BOOTSTRAP](https://getbootstrap.com/) 
 
 ```
 Es un framework web o conjunto de herramientas de código abierto 
@@ -59,7 +59,7 @@ para diseño de sitios y aplicaciones web.
 
 
 
-### ANIMATE.CSS
+### [ANIMATE.CSS](https://daneden.github.io/animate.css)
   
   ```
   Es una librería CSS3 para crear animaciones fácilmente.
@@ -70,7 +70,7 @@ para diseño de sitios y aplicaciones web.
 
 
 
-### Eskju-jquery-scrollflow
+### [Eskju-jquery-scrollflow](https://github.com/eskju/eskju-jquery-scrollflow)
 
 ```
 Es una librería de JQuery para crear animaciones.
@@ -81,7 +81,7 @@ Es una librería de JQuery para crear animaciones.
 ![](/img/preview/header.png)
 
 
-### FIREBASE
+### [FIREBASE](https://firebase.google.com/)
 
 ```
 Proporciona funciones como estadísticas, bases de datos, 
@@ -109,7 +109,7 @@ de manera que puedas moverte con rapidez y preocuparte de tus usuarios.
 | JavaScript|      | Lenguaje de programacion |
 | Animate.css| https://daneden.github.io/animate.css/    | Plugin CSS |
 | Bootstrap|https://getbootstrap.com/   | Framework |
-|eskju-jquery-scrollflow | https://daneden.github.io/animate.css/    | Plugin CSS |
+|eskju-jquery-scrollflow | https://github.com/eskju/eskju-jquery-scrollflow   | Plugin CSS |
 |Firebase | https://firebase.google.com/   | Base de Datos No Relacional de Google |
 
 
@@ -126,7 +126,7 @@ de manera que puedas moverte con rapidez y preocuparte de tus usuarios.
 ![](/img/preview/header.png)
 
 
-### NODE.JS
+### [NODE.JS](https://nodejs.org/es/)
 
 ```
 Entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
@@ -138,7 +138,7 @@ es el ecosistema mas grande de librerías de código abierto en el mundo.
 
 ![](/img/preview/header.png)
 
-### EXPRESS.JS 
+### [EXPRESS.JS](http://expressjs.com/es/) 
 
 ```
 Framework web transigente, escrito en JavaScript y alojado dentro del entorno de ejecución NodeJS.
@@ -161,7 +161,7 @@ de una manera sencilla.
 
 ![](/img/preview/header.png)
 
-### POSTMAN
+### [POSTMAN](https://www.getpostman.com/)
 
 ```
  Permite el envío de peticiones HTTP REST sin necesidad de desarrollar un cliente.
@@ -175,7 +175,7 @@ diferentes (con variables globales y locales).
 
 ![](/img/preview/header.png)
 
-### HEROKU
+### [HEROKU](https://www.heroku.com/)
 
 ```
  Es uno de los PaaS más utilizados en la actualidad en entornos empresariales 
@@ -189,7 +189,7 @@ diferentes (con variables globales y locales).
 
 ![](/img/preview/header.png)
 
-### MLAB
+### [MLAB](https://mlab.com/)
 
 ```
 Es una de las bases de datos de tipo NoSQL más populares debido a los simple de su configuración, 
@@ -203,7 +203,7 @@ por distintos servicios web como mLab.com.
 ![](/img/preview/header.png)
 
 
-### GIT
+### [GIT](https://git-scm.com/)
 
 ```
 Es un software de control de versiones  en el mantenimiento de versiones
