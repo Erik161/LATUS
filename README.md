@@ -90,13 +90,13 @@ de manera que puedas moverte con rapidez y preocuparte de tus usuarios.
 ```
 
 
-![](/img/preview/herramientas/firabase1header.png)
+![](/img/preview/herramientas/firebase1.png)
 
 
-![](/img/preview/herramientas/firabase2.png)
+![](/img/preview/herramientas/firebase2.png)
 
 
-![](/img/preview/herramientas/firabase3.png)
+![](/img/preview/herramientas/firebase3.png)
 
 
 
