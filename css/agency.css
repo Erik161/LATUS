@@ -714,3 +714,8 @@ color:#201ea8;
   width: 200px;
   height: 200px;
 }
+
+.logos{
+  width: 100%;
+  max-width:300px
+}
