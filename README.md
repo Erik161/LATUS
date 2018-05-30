@@ -8,9 +8,3 @@
 
 ## Preview
 
-
-
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
-
-
