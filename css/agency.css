@@ -694,7 +694,23 @@ ul.social-buttons li a {
   background-color: #212529;
 }
 
-ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+.facebookcolor:hover{
+color:#201ea8;
 }
 
+.githubcolor:hover{
+  color:#a220bb;
+}
+
+.twittercolor:hover{
+  color:#0ebeff;
+}
+
+.instagramcolor:hover{
+  color:#ec0727;
+}
+
+.img-about{
+  width: 200px;
+  height: 200px;
+}
