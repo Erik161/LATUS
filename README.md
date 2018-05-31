@@ -8,32 +8,32 @@
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/conoce.png)
 
 
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/eventos.png)
 
 
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/history.png)
 
 
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/team.png)
 
 
 
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/contact.png)
 
 
 
@@ -54,7 +54,7 @@ para diseño de sitios y aplicaciones web.
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/bootstrap.png)
 
 
 
@@ -66,7 +66,7 @@ para diseño de sitios y aplicaciones web.
   
   ```
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/animate.png)
 
 
 
@@ -78,7 +78,7 @@ Es una librería de JQuery para crear animaciones.
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/scrollflow.png)
 
 
 ### [FIREBASE](https://firebase.google.com/)
@@ -90,13 +90,13 @@ de manera que puedas moverte con rapidez y preocuparte de tus usuarios.
 ```
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/firebase1.png)
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/firebase2.png)
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/firebase3.png)
 
 
 
@@ -117,13 +117,13 @@ de manera que puedas moverte con rapidez y preocuparte de tus usuarios.
 
 ### EDUTEC
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/edutec.png)
 
 `POR:`
 
 ### OSCAR CHILEL
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/oscar.png)
 
 
 ### [NODE.JS](https://nodejs.org/es/)
@@ -136,7 +136,7 @@ es el ecosistema mas grande de librerías de código abierto en el mundo.
 
 ```
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/nodjs.png)
 
 ### [EXPRESS.JS](http://expressjs.com/es/) 
 
@@ -146,7 +146,7 @@ configura tu entorno de desarrollo y como realizar tareas comunes en desarrollo 
 
 ```
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/express.png)
 
 ### [NPM](https://www.npmjs.com/) 
 
@@ -159,7 +159,7 @@ de una manera sencilla.
 
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/npm.png)
 
 ### [POSTMAN](https://www.getpostman.com/)
 
@@ -173,7 +173,7 @@ diferentes (con variables globales y locales).
 ```
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/postman.png)
 
 ### [HEROKU](https://www.heroku.com/)
 
@@ -187,7 +187,7 @@ diferentes (con variables globales y locales).
 
 ```
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/heroku.png)
 
 ### [MLAB](https://mlab.com/)
 
@@ -200,7 +200,7 @@ por distintos servicios web como mLab.com.
 ```
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/mlab.png)
 
 
 ### [GIT](https://git-scm.com/)
@@ -212,7 +212,7 @@ de aplicaciones cuando éstas tienen un gran número de archivos de código fuen
 ```
 
 
-![](/img/preview/header.png)
+![](/img/preview/herramientas/git.png)
 
 
 
