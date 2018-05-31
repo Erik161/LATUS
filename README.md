@@ -61,10 +61,10 @@ para diseño de sitios y aplicaciones web.
 
 ### [ANIMATE.CSS](https://daneden.github.io/animate.css)
   
-  ```
-  Es una librería CSS3 para crear animaciones fácilmente.
+ 
+ > Es una librería CSS3 para crear animaciones fácilmente.
   
-  ```
+ 
 
 ![](/img/preview/herramientas/animate.png)
 
@@ -72,9 +72,9 @@ para diseño de sitios y aplicaciones web.
 
 ### [Eskju-jquery-scrollflow](https://github.com/eskju/eskju-jquery-scrollflow)
 
-```
-Es una librería de JQuery para crear animaciones.
-```
+
+> Es una librería de JQuery para crear animaciones.
+
 
 
 
@@ -205,11 +205,11 @@ por distintos servicios web como mLab.com.
 
 ### [GIT](https://git-scm.com/)
 
-```
-Es un software de control de versiones  en el mantenimiento de versiones
+
+>Es un software de control de versiones  en el mantenimiento de versiones
 de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 
-```
+
 
 
 ![](/img/preview/herramientas/git.png)
