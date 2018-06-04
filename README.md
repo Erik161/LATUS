@@ -1,6 +1,6 @@
 # [Latus](https://www.facebook.com/ExperienceLatus/)
 
-## Preview
+## Preview.
 
 ![](/img/preview/header.png)
 
