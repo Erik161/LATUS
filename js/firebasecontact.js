@@ -1,6 +1,4 @@
 
-  firebase.initializeApp(config);
-
   // Reference messages collection
 var messagesRef = firebase.database().ref('messages');
 
