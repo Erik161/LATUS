@@ -1,12 +1,4 @@
- // Initialize Firebase
- var config = {
-    apiKey: "AIzaSyDn-EHla66uWMEDTiviv05tep_0Z9FHjDA",
-    authDomain: "contact-form-latus.firebaseapp.com",
-    databaseURL: "https://contact-form-latus.firebaseio.com",
-    projectId: "contact-form-latus",
-    storageBucket: "contact-form-latus.appspot.com",
-    messagingSenderId: "485296532032"
-  };
+
   firebase.initializeApp(config);
 
   // Reference messages collection
