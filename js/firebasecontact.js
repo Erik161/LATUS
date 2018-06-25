@@ -1,7 +1,4 @@
 
-  // Reference messages collection
-var messagesRef = firebase.database().ref('messages');
-
 //MODIFICACION DE TODO EL CODIGO
 document.getElementById('contactForm'); // Obtenemos las referencia al formulario
 
